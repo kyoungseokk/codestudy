@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6c67b0c-209e-4726-ae6f-2eb681a6a798" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/x만큼간격이있는n개의숫자/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/김서방/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/나누어떨어지는숫자배열/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/나머지가1이되는수찾기/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/두정수사이의합/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/문자열내p와y의갯수/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/문자열을정수로만들기/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/약수의합/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/음양더하기/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/자릿수더하기/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/자연수뒤집어배열로만들기/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/정수내림차순배열/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/정수제곱근판별/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/제일작은수제거하기/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/짝수와홀수/Q1_짝수와홀수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/콜라츠추측/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/평균구하기/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/하샤드수/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level1/핸드폰번호가리기/Q17.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MazWROFaPFWOtj4mwc7hbmLEP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Q20">
+    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.핸드폰번호가리기.Q17" />
+      <module name="Coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.핸드폰번호가리기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.음양더하기.Q18" />
+      <module name="Coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.음양더하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q19 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.제일작은수제거하기.Q19" />
+      <module name="Coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.제일작은수제거하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.제일작은수제거하기.Q19" />
+      <module name="Coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.제일작은수제거하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.없는숫자더하기.Q20" />
+      <module name="Coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.없는숫자더하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q20" />
+        <item itemvalue="Application.Q19 (1)" />
+        <item itemvalue="Application.Q19" />
+        <item itemvalue="Application.Q18" />
+        <item itemvalue="Application.Q17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c67b0c-209e-4726-ae6f-2eb681a6a798" name="Changes" comment="" />
+      <created>1678020513840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678020513840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
